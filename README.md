@@ -22,6 +22,10 @@ A system that satisfies these objectives will display inputs and outputs like th
 
 ![](rm/readmeimg.png)
 
+The RS Image and it's segmentation on the left are from an earlier date and the images on the right are from a later date. 
+
+This allows us to view the changes periodically.
+
 
 To test sample images with our pre-trained model, download the Input images directory, and modify
 the paths accordingly in the Test Jupyter Notebook.

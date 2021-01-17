@@ -1,5 +1,5 @@
 # Pragyan
-**Team** : Byteme
+**Team** : ByteMe
 
 **Category:** Climate Change
 

@@ -1,7 +1,7 @@
 # Pragyan
 **Team** : Byteme
 
-**Category: **Climate Change
+**Category:** Climate Change
 
 Problem Statement: Change detection in a time-series of Remote Sensing Images.
 

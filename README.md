@@ -21,3 +21,7 @@ Given time-series tiles of remote sensing images (2 dates), we aim to satisfy th
 A system that satisfies these objectives will display inputs and outputs like the image shown below.  
 
 ![](rm/readmeimg.png)
+
+
+To test sample images with our pre-trained model, download the Input images directory, and modify
+the paths accordingly in the Test Jupyter Notebook.

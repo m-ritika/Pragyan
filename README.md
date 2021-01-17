@@ -24,7 +24,7 @@ A system that satisfies these objectives will display inputs and outputs like th
 
 The RS Image and it's segmentation on the left are from an earlier date and the images on the right are from a later date. 
 
-This allows us to view the changes periodically.
+This allows us to periodically view the scene changes that have occured.
 
 
 To test sample images with our pre-trained model, download the Input images directory, and modify

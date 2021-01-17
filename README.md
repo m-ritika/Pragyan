@@ -18,3 +18,4 @@ Given time-series tiles of remote sensing images (2 dates), we aim to satisfy th
 4. Categorize the extracted changes with understandable labels
 A system that satisfies these objectives will display inputs and outputs like the image shown below.  
 
+![](rm/readmeimg.png)

@@ -2,12 +2,13 @@
 Category: Climate Change
 
 Problem Statement: Change detection in a time-series of Remote Sensing Images.
+
 This repository contains a PyTorch implementation of a Fully Convolutional Network for semantic
 segmentation and change detection of aerial images. More specifically, we aim to automatically
 perform scene interpretation of images taken from a plane or a satellite by classifying every pixel
 into several land cover classes. We are using the Deeplabv3 architecture to segment aerial images
 over the cities of Hangzhou, Chengdu, and Shanghai. The images are from the SEmantic Change
-detectiON Dataset( SEmantic Change detectiON Dataset(SECOND).Each image has size 512 x 512
+detectiON Dataset( SEmantic Change detectiON Dataset(SECOND). Each image has size 512 x 512
 and is annotated at the pixel level.  We have trained a network to segment the images into the
 classes : buildings, low vegetation, trees, water, Playground, Impervious surfaces and No change.
 
